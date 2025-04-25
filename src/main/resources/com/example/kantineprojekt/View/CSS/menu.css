@@ -1,0 +1,25 @@
+.order {
+    -fx-border-width: 2px;
+    -fx-border-color: black;
+    -fx-alignment: center;
+}
+
+.orderProduct {
+    -fx-border-width: 2px;
+    -fx-border-style: solid none none none;
+    -fx-border-color: black;
+}
+
+.buttonProduct {
+    -fx-pref-height: 193px;
+    -fx-pref-width: 288px;
+}
+
+.orderButton {
+    -fx-border-width: 2px 0px 0px 0px;
+    -fx-border-color: black;
+}
+
+.productLabel {
+    -fx-font-size: 24px;
+}
